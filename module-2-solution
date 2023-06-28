@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/styles.css">
+    <title>Assignment</title>
+</head>
+<body>
+    <header>
+        <h1>Page Heading</h1>
+    </header>
+    <section>
+        <div class="content-box">
+            <h2 class="section-title">Chicken</h2>
+            <p>Lorem ipsum dolor sit amet...</p>
+        </div>
+    </section>
+    <section>
+        <div class="content-box">
+            <h2 class="section-title">Beef</h2>
+            <p>Lorem ipsum dolor sit amet...</p>
+        </div>
+    </section>
+    <section>
+        <div class="content-box">
+            <h2 class="section-title">Sushi</h2>
+            <p>Lorem ipsum dolor sit amet...</p>
+        </div>
+    </section>
+</body>
+</html>
